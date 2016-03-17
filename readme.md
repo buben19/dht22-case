@@ -1,3 +1,3 @@
 # dht22 case
 
-Case for DHT22 sensor.
+3D printable case for DHT22 sensor.

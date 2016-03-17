@@ -3,6 +3,7 @@
 ## v0.1
 
  - Initial version.
+ - 3D printable design.
  - Case for DHT22 sensor mounted on protoboard.
  - Connected using telephone wire with RJ-11 plug.
  - Four M4 screws with flat head and nuts.
