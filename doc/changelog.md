@@ -13,3 +13,4 @@
  - Project file structure refactoring.
  - Renamed model files.
  - Added readme and changelog files.
+ - Added case image.
